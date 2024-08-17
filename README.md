@@ -23,7 +23,7 @@ A video demo which showcases the website’s core features.
 ## 🛠️ Tech Stack
 
 - **Frontend**: Vue.js
-- **Backend**: Express.js, Axios, CORS
+- **Backend**: Express.js, Node.js
 - **Database**: MySQL
 
 ## 🚀 Getting Started
@@ -36,7 +36,7 @@ Ensure you have **Node.js** and **MySQL** installed on your machine.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/HandiBiryaniWala.git
+   git clone https://github.com/AyushGarg848/HandiBiryaniWala.git
    ```
 
 2. **Backend Setup**:
