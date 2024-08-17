@@ -1,32 +1,29 @@
-# 🍛 Handi Biryani Wala
+## 🍛 Handi Biryani Wala
 
-**Handi Biryani Wala** is an online restaurant management and food ordering website created for a restaurant in Muzaffarpur, Bihar. This project was developed during an internship to bring the restaurant's operations online, making it easier for customers to browse the menu, place orders, and stay connected with the restaurant.
+**Handi Biryani Wala** is an online food delivery website created for a restaurant in Muzaffarpur, Bihar. This project was developed during an internship to bring the restaurant's operations online, making it easier for customers to browse the menu, place orders, and stay connected with the restaurant.
 
-## 🎥 Demo
+### 🎥 Demo
 
 A video demo which showcases the website’s core features.
 
 https://github.com/user-attachments/assets/abc76e61-e655-42e1-a679-b507a8c79e0f
 
-## 🌟 Main Features
+### 🌟 Main Features
 
-### 1. **Intuitive Design**
+- **Intuitive Design:**
 Showcases the restaurant's offerings with a clean design, including detailed menu descriptions and pricing.
-
-### 2. **User Registration & Login**
+- **User Registration & Login:**
 Customers can create accounts, log in, place orders, and manage their account details.
-
-### 3. **Order Management**
+- **Order Management:**
 Customers can add items to a cart, place orders, and track their order status.
-
-### 4. **Admin Page**
+- **Admin Page:**
 Authenticated staff can manage and update orders, ensuring customers stay informed.
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-- **Frontend**: Vue.js
-- **Backend**: Express.js, Node.js
-- **Database**: MySQL
+- **Frontend:** Vue.js
+- **Backend:** Express.js, Node.js
+- **Database:** MySQL
 
 ## 🚀 Getting Started
 
@@ -76,6 +73,6 @@ Ensure you have **Node.js** and **MySQL** installed on your machine.
 
 Now, you can access the website locally on your machine and start exploring!
 
-## 📫 Contact
+### 📫 Contact
 
 For any queries, feel free to reach out at [ayushkumargarg848@gmail.com](mailto:ayushkumargarg848@gmail.com).
