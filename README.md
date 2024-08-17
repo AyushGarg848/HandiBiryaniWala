@@ -1,10 +1,8 @@
 ## 🍛 Handi Biryani Wala
 
-**Handi Biryani Wala** is an online food delivery website created for a restaurant in Muzaffarpur, Bihar. This project was developed during an internship to bring the restaurant's operations online, making it easier for customers to browse the menu, place orders, and stay connected with the restaurant.
+An online food delivery website created for Handi Biryani Wala, Muzaffarpur, Bihar. This project was developed during an internship to bring the restaurant's operations online, making it easier for customers to browse the menu, place orders, and stay connected with the restaurant.
 
-### 🎥 Demo
-
-A video demo which showcases the website’s core features.
+### 🎥 Video Demo
 
 https://github.com/user-attachments/assets/abc76e61-e655-42e1-a679-b507a8c79e0f
 
@@ -25,7 +23,7 @@ Authenticated staff can manage and update orders, ensuring customers stay inform
 - **Backend:** Express.js, Node.js
 - **Database:** MySQL
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 ### Prerequisites
 
