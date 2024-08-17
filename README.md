@@ -20,6 +20,8 @@ Authenticated staff can manage and update orders, ensuring customers stay inform
 
 A video demo which showcases the website’s core features.
 
+https://github.com/user-attachments/assets/abc76e61-e655-42e1-a679-b507a8c79e0f
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: Vue.js
