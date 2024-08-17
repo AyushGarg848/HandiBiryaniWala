@@ -4,16 +4,16 @@
 
 ## 🌟 Main Features
 
-#### 1. **Intuitive Design**
+### 1. **Intuitive Design**
 Showcases the restaurant's offerings with a clean design, including detailed menu descriptions and pricing.
 
-#### 2. **User Registration & Login**
+### 2. **User Registration & Login**
 Customers can create accounts, log in, place orders, and manage their account details.
 
-#### 3. **Order Management**
+### 3. **Order Management**
 Customers can add items to a cart, place orders, and track their order status.
 
-#### 4. **Admin Page**
+### 4. **Admin Page**
 Authenticated staff can manage and update orders, ensuring customers stay informed.
 
 ## 🎥 Demo
