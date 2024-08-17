@@ -2,6 +2,12 @@
 
 **Handi Biryani Wala** is an online restaurant management and food ordering website created for a restaurant in Muzaffarpur, Bihar. This project was developed during an internship to bring the restaurant's operations online, making it easier for customers to browse the menu, place orders, and stay connected with the restaurant.
 
+## 🎥 Demo
+
+A video demo which showcases the website’s core features.
+
+https://github.com/user-attachments/assets/abc76e61-e655-42e1-a679-b507a8c79e0f
+
 ## 🌟 Main Features
 
 ### 1. **Intuitive Design**
@@ -15,12 +21,6 @@ Customers can add items to a cart, place orders, and track their order status.
 
 ### 4. **Admin Page**
 Authenticated staff can manage and update orders, ensuring customers stay informed.
-
-## 🎥 Demo
-
-A video demo which showcases the website’s core features.
-
-https://github.com/user-attachments/assets/abc76e61-e655-42e1-a679-b507a8c79e0f
 
 ## 🛠️ Tech Stack
 
