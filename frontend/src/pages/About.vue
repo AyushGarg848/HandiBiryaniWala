@@ -11,9 +11,9 @@
             II) Our skilled chefs craft every meal with care, ensuring you experience flavors that are both rich and memorable. <br>
             III) Whether you're dining in or enjoying our convenient home delivery service, we guarantee the highest quality in every bite. <br>
             IV) We also provide a spacious venue perfect for organizing events, making any occasion special. <br> </p>
-            <h2>Contact Us: </h2>
+            <h3>Contact Us: </h3>
             <p>Phone: +91 8092153918 <br>
-            Address: Kalambagh Chowk, Muzaffarpur, Bihar</p>
+            Address: Kalambagh Chowk, Muzaffarpur, Pincode: 842001, Bihar</p>
             <h3>Opens everyday</h3>
             <p> from 8:00am to 11:00 pm</p>
         </div>

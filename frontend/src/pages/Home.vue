@@ -89,6 +89,10 @@
                         <img src="../assets/images/serv-3.png" alt="">
                         <h3>best quality</h3>
                     </div>
+                    <div class="icons">
+                        <img src="../assets/images/serv-4.png" alt="">
+                        <h3>Customer Support</h3>
+                    </div>
                 </div>
             </div>
         </div>

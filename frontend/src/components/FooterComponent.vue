@@ -39,7 +39,7 @@
 
             <div class="box">
                 <h3>Contact Us</h3>
-                <p>Kalambagh Chowk, Muzaffarpur, Bihar <br>
+                <p>Kalambagh Chowk, Muzaffarpur, Pincode: 842001, Bihar <br>
                 Booking Request : +91 8092153918 <br>
                 Open : 8:00am to 11:00pm</p>
             </div>
@@ -132,20 +132,20 @@ export default {
 }
 
 .footer .box-container .box h3 {
-    font-size: 2.2rem;
+    font-size: 2rem;
     color: #130f40;
     padding: 1rem 0;
 }
 
 .footer .box-container .box p {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     color: #666;
     padding: 1rem 0;
 }
 
 .footer .box-container .box a {
     display: block;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     color: #666;
     padding: 1rem 0;
 }
