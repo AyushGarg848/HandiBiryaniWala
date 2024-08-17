@@ -51,9 +51,9 @@ Ensure you have **Node.js** and **MySQL** installed on your machine.
 4. **Database Setup**:
    - Create a local MySQL server.
    - Use the SQL script to create the database and tables:
-     ```bash
-     vi /backend/resources/db_restaurant.sql
-     ```
+   ```bash
+   vi /backend/resources/db_restaurant.sql
+   ```
 
 ### Running the Project
 
